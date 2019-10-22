@@ -1,0 +1,46 @@
+.container-side {
+    background-color: #F8F9F9;
+    padding: 0 !important;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.col-1-side {
+    width: 10%;
+}
+
+.side-bar {
+    background-color: #FFFFFF;
+    height: 100vh;
+    width: 52px;
+}
+
+.nav-img {
+    color: black;
+    width: 21px;
+    height: 14px;
+    margin: 20px;
+}
+
+.Image {
+    width: 52px;
+    height: 52px;
+}
+
+.first-element {
+    width: 52px;
+    height: 26px;
+}
+
+.align-item-left {
+    align-items: flex-end !important;
+}
+
+.nav-img-side {
+    width: 25px;
+    height: 20px;
+    margin: 15px;
+}
